@@ -42,4 +42,3 @@ echo "$BRANCH"
 git checkout main
 git pull
 git checkout -b "$BRANCH"
-Esse script lista todas as Issues abertas, não apenas Stories. Assim ele também permite trabalhar em Issues [DOCS].
